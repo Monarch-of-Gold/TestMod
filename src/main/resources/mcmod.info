@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MonarchTestMod",
+  "name": "Monarch's Test Mod",
+  "description": "Code test before writing real thing.",
+  "version": "0.1",
+  "mcversion": "[1.10.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Monarch_of_Gold"],
+  "credits": "blerb",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
