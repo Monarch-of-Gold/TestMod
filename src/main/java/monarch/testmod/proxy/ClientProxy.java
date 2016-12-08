@@ -6,6 +6,9 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 public class ClientProxy implements CommonProxy {
 
 
+private static final String Item = null;
+
 public void preInit(FMLPreInitializationEvent e) {
-	questWand questWand;
+	QuestWand questWand;
+	public static final Item(questWand); 
 	ModItems.creatItems(questWand); }}
